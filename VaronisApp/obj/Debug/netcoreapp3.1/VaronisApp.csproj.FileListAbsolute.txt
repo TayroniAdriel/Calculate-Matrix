@@ -1,0 +1,13 @@
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.csprojAssemblyReference.cache
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.AssemblyInfoInputs.cache
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.AssemblyInfo.cs
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.csproj.CoreCompileInputs.cache
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.exe
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.deps.json
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.runtimeconfig.json
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.runtimeconfig.dev.json
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.dll
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\bin\Debug\netcoreapp3.1\VaronisApp.pdb
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.dll
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.pdb
+C:\Users\tayro\source\repos\VaronisApp\VaronisApp\obj\Debug\netcoreapp3.1\VaronisApp.genruntimeconfig.cache
